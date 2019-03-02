@@ -1,0 +1,10 @@
+{
+  "name": "itcss-layout",
+  "version": "1.0.0",
+  "repository": "https://github.com/martinwillnorman/itcss-layout.git",
+  "author": "<martinwillnorman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "normalize-scss": "^7.0.1"
+  }
+}
